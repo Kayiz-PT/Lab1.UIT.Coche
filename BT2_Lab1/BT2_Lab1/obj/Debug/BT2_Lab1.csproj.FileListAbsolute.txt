@@ -1,0 +1,17 @@
+D:\Cơ Chế Thực Hành\BT2_Lab1\BT2_Lab1\bin\Debug\BT2_Lab1.exe.config
+D:\Cơ Chế Thực Hành\BT2_Lab1\BT2_Lab1\bin\Debug\BT2_Lab1.exe
+D:\Cơ Chế Thực Hành\BT2_Lab1\BT2_Lab1\bin\Debug\BT2_Lab1.pdb
+D:\Cơ Chế Thực Hành\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.csprojAssemblyReference.cache
+D:\Cơ Chế Thực Hành\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.ProjectInstaller.resources
+D:\Cơ Chế Thực Hành\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.csproj.GenerateResource.cache
+D:\Cơ Chế Thực Hành\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.csproj.CoreCompileInputs.cache
+D:\Cơ Chế Thực Hành\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.exe
+D:\Cơ Chế Thực Hành\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.pdb
+D:\CoCheTH\BT2_Lab1\BT2_Lab1\bin\Debug\BT2_Lab1.exe.config
+D:\CoCheTH\BT2_Lab1\BT2_Lab1\bin\Debug\BT2_Lab1.exe
+D:\CoCheTH\BT2_Lab1\BT2_Lab1\bin\Debug\BT2_Lab1.pdb
+D:\CoCheTH\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.ProjectInstaller.resources
+D:\CoCheTH\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.csproj.GenerateResource.cache
+D:\CoCheTH\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.csproj.CoreCompileInputs.cache
+D:\CoCheTH\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.exe
+D:\CoCheTH\BT2_Lab1\BT2_Lab1\obj\Debug\BT2_Lab1.pdb
