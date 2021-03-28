@@ -1,0 +1,65 @@
+﻿Installing assembly 'C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.InstallLog
+   assemblypath = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.InstallLog
+   assemblypath = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe
+Installing assembly 'C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.InstallLog
+   assemblypath = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.InstallLog
+   assemblypath = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe
+Installing assembly 'C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.InstallLog
+   assemblypath = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.InstallLog
+   assemblypath = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.InstallLog
+   assemblypath = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.InstallLog
+   assemblypath = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe
+Installing assembly 'C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.InstallLog
+   assemblypath = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.InstallLog
+   assemblypath = C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe

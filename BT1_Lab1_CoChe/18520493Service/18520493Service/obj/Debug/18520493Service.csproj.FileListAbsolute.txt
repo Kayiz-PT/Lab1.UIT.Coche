@@ -1,0 +1,9 @@
+C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe.config
+C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.exe
+C:\Users\qb071\source\repos\18520493Service\18520493Service\bin\Debug\18520493Service.pdb
+C:\Users\qb071\source\repos\18520493Service\18520493Service\obj\Debug\18520493Service.csprojAssemblyReference.cache
+C:\Users\qb071\source\repos\18520493Service\18520493Service\obj\Debug\_18520493Service.ProjectInstaller.resources
+C:\Users\qb071\source\repos\18520493Service\18520493Service\obj\Debug\18520493Service.csproj.GenerateResource.cache
+C:\Users\qb071\source\repos\18520493Service\18520493Service\obj\Debug\18520493Service.csproj.CoreCompileInputs.cache
+C:\Users\qb071\source\repos\18520493Service\18520493Service\obj\Debug\18520493Service.exe
+C:\Users\qb071\source\repos\18520493Service\18520493Service\obj\Debug\18520493Service.pdb
