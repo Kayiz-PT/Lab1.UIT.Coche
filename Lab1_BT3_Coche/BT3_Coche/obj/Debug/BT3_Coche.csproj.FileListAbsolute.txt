@@ -1,0 +1,9 @@
+C:\Users\nhoxa\OneDrive\Desktop\Something\BT3_Coche\BT3_Coche\bin\Debug\BT3_Coche.exe.config
+C:\Users\nhoxa\OneDrive\Desktop\Something\BT3_Coche\BT3_Coche\bin\Debug\BT3_Coche.exe
+C:\Users\nhoxa\OneDrive\Desktop\Something\BT3_Coche\BT3_Coche\bin\Debug\BT3_Coche.pdb
+C:\Users\nhoxa\OneDrive\Desktop\Something\BT3_Coche\BT3_Coche\obj\Debug\BT3_Coche.ProjectInstaller.resources
+C:\Users\nhoxa\OneDrive\Desktop\Something\BT3_Coche\BT3_Coche\obj\Debug\BT3_Coche.csproj.GenerateResource.cache
+C:\Users\nhoxa\OneDrive\Desktop\Something\BT3_Coche\BT3_Coche\obj\Debug\BT3_Coche.csproj.CoreCompileInputs.cache
+C:\Users\nhoxa\OneDrive\Desktop\Something\BT3_Coche\BT3_Coche\obj\Debug\BT3_Coche.exe
+C:\Users\nhoxa\OneDrive\Desktop\Something\BT3_Coche\BT3_Coche\obj\Debug\BT3_Coche.pdb
+C:\Users\nhoxa\OneDrive\Desktop\Something\BT3_Coche\BT3_Coche\obj\Debug\BT3_Coche.csprojAssemblyReference.cache
